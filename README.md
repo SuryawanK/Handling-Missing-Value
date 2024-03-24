@@ -1,4 +1,12 @@
-# Handling-Missing-Value
+
+# Method of Handling Missing Value
+1. Drop Missing  Value
+2. Filling
+*   Mode
+*   Mean
+*   Median
+
+
 
 # Data Understanding
 1. Brand = Brand Name
